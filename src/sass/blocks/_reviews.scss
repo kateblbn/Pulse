@@ -1,0 +1,51 @@
+.reviews {
+    &__cost {
+        font-weight: 700;
+        font-size: 30px;
+        width: 100%;
+        text-align: center;
+        text-transform: uppercase;
+        color: #0D0D0D;
+        margin-bottom: 60px;
+        &_rev {
+            display: flex;
+            margin-bottom: 60px;
+        }
+        &_inner {
+            margin-left: 60px;
+        }
+        &_img {
+            width: 169px;
+            height: 169px;
+        }
+        &_name {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            color: #0D0D0D;
+        }
+        &_subheader {
+            font-weight: 500;
+            font-size: 14px;
+            color: #646464;
+        }
+        &_text {
+            width: 100%;
+            font-style: normal;
+            font-weight: 300;
+            line-height: 25px;
+            font-size: 16px;
+            color: #0D0D0D;
+            margin-top: 10px;
+
+        }
+
+
+
+    }
+
+
+
+
+
+}
